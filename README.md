@@ -1,3 +1,4 @@
 # Fei_Feng_Test_Ormuco
 
-Not sure about Q3 sorry.
+Wrote in Java.
+Not sure about Q3.
